@@ -20,7 +20,7 @@
         "@tobyg74/tiktok-api-dl": "^1.0.13",
         "awesome-phonenumber": "^3.2.0",
         "axios": "^1.5.2",
-        "baileys": "github:TobyG74/baileys",
+        "baileys": "github:ikyalwaysgood/baileys",
         "cfonts": "^3.1.1",
         "cheerio": "^1.0.0-rc.12",
         "cli-color": "^2.0.3",
@@ -58,12 +58,12 @@
         "ikyofficial",
         "baileys"
     ],
-    "homepage": "https://github.com/TobyG74/ChisatoBOT#readme",
+    "homepage": "https://github.com/ikyalwaysgood/Simple-Bot#readme",
     "repository": {
         "type": "git",
-        "url": "https://github.com/TobyG74/ChisatoBOT.git"
+        "url": "https://github.com/ikyalwaysgood/Simple-Bot.git"
     },
     "bugs": {
-        "url": "https://github.com/TobyG74/ChisatoBOT/issues"
+        "url": "https://github.com/ikyalwaysgood/Simple-Bot/issues"
     }
 }
