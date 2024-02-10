@@ -1,7 +1,7 @@
 <p align="center">
     <img src="media/chisato.png" width="250" alt="logo">
 </p>
-<h1 align="center">ChisatoBOT</h1>
+<h1 align="center">Kιɳα Bσƚ</h1>
 <h3 align="center">This bot uses a library from Baileys</h3>
 <h3 align="center">Give this repository a ⭐ if you like it</h3>
 
@@ -27,8 +27,8 @@
     <img src="media/terminal.png" width="400" alt="logo">
 </p>
 
--   Chisato is a WhatsApp bot with various functions
--   There are various features available on Chisato BOT
+-   Kιɳα Bσƚ is a WhatsApp bot with various functions
+-   There are various features available on Kιɳα Bσƚ
 -   ChisatoBOT has a beautiful terminal logger
 -   Full Installation Tutorial [Click Here](https://mega.nz/file/Qjs0mK5a#eHw6I57tqKks8H_7SJ3gLICY849801Hg3LxJuSIL2mw)
 
@@ -76,8 +76,8 @@ If you have problems, you can [open an issue](https://github.com/TobyG74/Chisato
 ### Clone this Project
 
 ```
-git clone https://github.com/TobyG74/ChisatoBOT
-cd ChisatoBOT
+git clone https://github.com/ikyalwaysgood/Simple-Bot
+cd Simple-Bot
 ```
 
 ### Install Dependencies
@@ -130,8 +130,8 @@ npm start
     "prefix": ".",
     "maintenance": [], // List Maintenance Command
     "stickers": {
-        "author": "Instagram : ini.tobz",
-        "packname": "Made by ChisatoBOT"
+        "author": "Instagram : iky_alwaysgood",
+        "packname": "Made by Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ"
     },
     "settings": {
         "ownerNotifyOnline": false,
@@ -224,7 +224,7 @@ type ConfigCommands = {
 
 ## Community
 
--   Special thanks to the bot community below who helped develop ChisatoBOT
+-   Special thanks to the bot community below who helped develop Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ
 
 <table>
     <tr>
