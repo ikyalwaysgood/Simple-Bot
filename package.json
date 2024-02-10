@@ -1,5 +1,5 @@
 {
-    "name": "chisato-bot",
+    "name": "Kιɳα Bσƚ",
     "version": "1.0.4",
     "description": "WhatsApp Bot Multi-Device using Baileys",
     "main": "start.js",
@@ -12,7 +12,7 @@
     "prisma": {
         "schema": "./prisma/schema.prisma"
     },
-    "author": "Tobz",
+    "author": "Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ",
     "license": "GPL-3.0-only",
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
@@ -55,6 +55,7 @@
         "whatsappmd",
         "chisato-bot",
         "chisato-md",
+        "ikyofficial",
         "baileys"
     ],
     "homepage": "https://github.com/TobyG74/ChisatoBOT#readme",
