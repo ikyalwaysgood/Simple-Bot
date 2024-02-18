@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="media/chisato.png" width="250" alt="logo">
+    <img src="https://cdn.btch.bz/file/06e8d93a5831ce577b93e.jpg" width="250" alt="logo">
 </p>
 <h1 align="center">Kιɳα Bσƚ</h1>
 <h3 align="center">This bot uses a library from Baileys</h3>
