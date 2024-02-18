@@ -24,7 +24,7 @@
 ## Description
 
 <p align="center">
-    <img src="media/terminal.png" width="400" alt="logo">
+    <img src="https://cdn.btch.bz/file/06e8d93a5831ce577b93e.jpg" width="400" alt="logo">
 </p>
 
 -   Kιɳα Bσƚ is a WhatsApp bot with various functions
